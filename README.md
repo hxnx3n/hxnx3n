@@ -1,3 +1,74 @@
-# 👋 안녕하세요!
-감사합니다
-저는 퍼리입니다.
+<div align="center">
+
+<!-- 헤더 배너 -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,100:A855F7&height=180&section=header&text=Hi%20there!%20I'm%20hxnx3n%20👋&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+<!-- 타이핑 효과 -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&random=false&width=500&lines=%E2%9C%A8+Welcome+to+my+GitHub!;%F0%9F%92%BB+Passionate+Developer;%F0%9F%8C%99+Night+owl+coder" alt="Typing SVG" />
+</a>
+
+<br><br>
+
+<!-- 소셜 뱃지 -->
+<a href="https://github.com/hxnx3n">
+  <img src="https://img.shields.io/badge/GitHub-hxnx3n-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://discord.com/users/hxnx3n">
+  <img src="https://img.shields.io/badge/Discord-hxnx3n-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+<a href="mailto:me@hanana.kr">
+  <img src="https://img.shields.io/badge/Email-me@hanana.kr-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const developer = {
+    name: "ハナナ",
+    location: "South Korea 🇰🇷",
+    currentFocus: "Building awesome things",
+    funFact: "I code better with snacks nearby 🍪"
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frameworks & Tools
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=hxnx3n&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=FF6B9D&icon_color=FF6B9D&text_color=c9d1d9"/>
+&nbsp;
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxnx3n&layout=compact&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=FF6B9D&text_color=c9d1d9"/>
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:FF6B9D&height=120&section=footer"/>
