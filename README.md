@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 헤더 배너 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,100:A855F7&height=180&section=header&text=Hi%20there!%20I'm%20ハナナ%20👋&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,100:A855F7&height=180&section=header&text=Hi%20there!%20I'm%20hxnx3n%20👋&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- 타이핑 효과 -->
 <a href="https://git.io/typing-svg">
@@ -29,10 +29,10 @@
 
 ```javascript
 const developer = {
-    name: "ハナナ",
-    location: "South Korea 🇰🇷",
-    currentFocus: "Building awesome things",
-    funFact: "I code better with snacks nearby 🍪"
+  name: "ハナナ",
+  location: "South Korea 🇰🇷",
+  currentFocus: "Building awesome things",
+  funFact: "I code better with snacks nearby 🍪",
 };
 ```
 
@@ -43,12 +43,14 @@ const developer = {
 <div align="center">
 
 ### Languages
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frameworks & Tools
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -59,13 +61,12 @@ const developer = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Profile
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=hxnx3n&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=FF6B9D&icon_color=FF6B9D&text_color=c9d1d9"/>
+<img height="600em" src="https://githubcard.com/hxnx3n.svg?d=MvCV1h0M"/>
 &nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxnx3n&layout=compact&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=FF6B9D&text_color=c9d1d9"/>
 
 </div>
 
