@@ -64,10 +64,7 @@ const developer = {
 ## 📊 GitHub Profile
 
 <div align="center">
-
 <img height="600em" src="https://githubcard.com/hxnx3n.svg?d=MvCV1h0M"/>
-&nbsp;
-
 </div>
 
 ---
