@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 헤더 배너 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,100:A855F7&height=180&section=header&text=Hi%20there!%20I'm%20hxnx3n%20👋&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,100:A855F7&height=180&section=header&text=Hi%20there!%20I'm%20ハナナ%20👋&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- 타이핑 효과 -->
 <a href="https://git.io/typing-svg">
