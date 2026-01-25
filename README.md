@@ -20,6 +20,9 @@
 <a href="mailto:me@hanana.kr">
   <img src="https://img.shields.io/badge/Email-me@hanana.kr-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="https://slovde.ac">
+  <img src="https://img.shields.io/badge/Solved.ac-slovde.ac-17CE3A?style=for-the-badge&logo=solvedac&logoColor=white"/>
+</a>
 
 </div>
 
