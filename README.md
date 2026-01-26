@@ -90,6 +90,17 @@ const developer = {
 <div align="center">
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 18 January 2026 - To: 25 January 2026
+
+TypeScript                 43 hrs 54 mins  >>>>>>>>>>>>>>>>>>-------   70.98 %
+Python                     5 hrs 26 mins   >>-----------------------   08.79 %
+Java                       1 hr 39 mins    >------------------------   02.67 %
+shell script               1 hr 22 mins    >------------------------   02.22 %
+JSON                       1 hr 9 mins     -------------------------   01.89 %
+```
+
 <!--END_SECTION:waka-->
 
 </div>
