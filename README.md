@@ -92,13 +92,13 @@ const developer = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 February 2026 - To: 15 February 2026
+From: 09 February 2026 - To: 16 February 2026
 
-TypeScript                 9 hrs 17 mins   >>>>>>>>>>>>-------------   47.93 %
-Other                      2 hrs 20 mins   >>>----------------------   12.10 %
-Bash                       1 hr 17 mins    >>-----------------------   06.69 %
-Java                       1 hr 12 mins    >>-----------------------   06.24 %
-YAML                       58 mins         >------------------------   05.06 %
+TypeScript       7 hrs 5 mins    >>>>>>>>>>>--------------   42.26 %
+Other            2 hrs 20 mins   >>>----------------------   13.98 %
+Bash             1 hr 17 mins    >>-----------------------   07.74 %
+Java             1 hr 11 mins    >>-----------------------   07.11 %
+YAML             50 mins         >------------------------   05.06 %
 ```
 
 <!--END_SECTION:waka-->
