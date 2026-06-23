@@ -92,13 +92,13 @@ const developer = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2026 - To: 21 June 2026
+From: 15 June 2026 - To: 22 June 2026
 
-Java             12 hrs 36 mins        >>>>>>>>>>>>>>>>>>>------   75.61 %
-Other            2 hrs 12 mins         >>>----------------------   13.28 %
-YAML             1 hr 34 mins          >>-----------------------   09.46 %
-Kotlin           16 mins               -------------------------   01.62 %
-Markdown         0 secs                -------------------------   00.03 %
+Java           12 hrs 4 mins         >>>>>>>>>>>>>>>>>>-------   70.67 %
+Other          2 hrs 20 mins         >>>----------------------   13.72 %
+YAML           1 hr 11 mins          >>-----------------------   07.02 %
+Markdown       48 mins               >------------------------   04.70 %
+JavaScript     22 mins               >------------------------   02.21 %
 ```
 
 <!--END_SECTION:waka-->
